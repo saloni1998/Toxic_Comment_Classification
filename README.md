@@ -1,5 +1,6 @@
 # Toxic_Comment_Classification
 <b>Description</b>
+<br>
 A large number of Wikipedia comments which have been labeled by human raters for toxic behavior is given. The types of toxicity are:
 
 toxic
