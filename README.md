@@ -9,6 +9,6 @@ A large number of Wikipedia comments which have been labeled by human raters for
 4.threat<br>
 5.insult<br>
 6.identity_hate<br>
-Task is to predict a probability of each type of toxicity for each comment.
+Task is to predict a probability of each type of toxicity for each comment.<br>
 <b>Score</b> on LeaderBoard :- <b>0.9488</b>
 
