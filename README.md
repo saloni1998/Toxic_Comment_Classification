@@ -1,4 +1,6 @@
 # Toxic_Comment_Classification
+Link of the dataset <br>
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 <b>Description</b>
 <br>
 A large number of Wikipedia comments which have been labeled by human raters for toxic behavior is given. The types of toxicity are:
